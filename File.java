@@ -1,5 +1,3 @@
-package file1002151;
-
 public class File implements Component{
 	
 	private String name; 
