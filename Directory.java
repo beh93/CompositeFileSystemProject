@@ -1,5 +1,3 @@
-package file1002151;
-
 import java.util.ArrayList; 
 
 public class Directory implements Component{
