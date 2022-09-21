@@ -1,5 +1,3 @@
-package file1002151;
-
 public interface Component {
 	public String getName();
 	public int getSize();
